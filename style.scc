@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+background-color: #FFE4B5	;
+}
+p {
+    font-size: 23px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    border-right: 2px solid blue;
+    border-left: 2px solid blue;
+}
